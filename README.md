@@ -64,14 +64,14 @@ $ cat /etc/motd
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=widy4aa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widy4aa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=widy4aa&theme=tokyonight" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=widy4aa&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=widy4aa&theme=tokyonight" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=widy4aa&theme=tokyonight" height="160" />
 
 </div>
 
