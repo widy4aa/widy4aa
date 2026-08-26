@@ -64,16 +64,17 @@ $ cat /etc/motd
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=widy4aa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widy4aa&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=widy4aa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widy4aa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=widy4aa&theme=tokyonight&hide_border=true)](https://github.com/widy4aa)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=widy4aa&theme=tokyonight" width="100%" />
 
 </div>
+
 
 ---
 
